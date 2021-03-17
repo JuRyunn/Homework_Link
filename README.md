@@ -10,6 +10,6 @@ https://user-images.githubusercontent.com/79950504/110575054-a0a7c780-81a1-11eb-
 https://user-images.githubusercontent.com/79950504/110745589-d2db2700-827e-11eb-8697-c5a63129a6a6.PNG </br>
 -> Git을 통한 GitHub와 Android Studio 연동 및 수정 후 커밋 결과 캡처본
 
-# Week3 Homework_3
+# Week3 Homework_3 (21.03.17)
 https://www.youtube.com/watch?v=ckLXbBKVfFk </br>
 -> Android Callback Method 
