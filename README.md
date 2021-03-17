@@ -1,6 +1,6 @@
 # Week2 Homework_1
 
-https://user-images.githubusercontent.com/79950504/110575054-a0a7c780-81a1-11eb-974f-29206e3d4f7c.PNG
+https://user-images.githubusercontent.com/79950504/110575054-a0a7c780-81a1-11eb-974f-29206e3d4f7c.PNG </br>
 -> AVR 
 
 
