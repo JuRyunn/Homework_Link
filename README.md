@@ -11,5 +11,5 @@ https://user-images.githubusercontent.com/79950504/110745589-d2db2700-827e-11eb-
 -> Git을 통한 GitHub와 Android Studio 연동 및 수정 후 커밋 결과 캡처본
 
 # Week3 Homework_3 [21.03.17]
-https://www.youtube.com/watch?v=ckLXbBKVfFk </br>
+https://www.youtube.com/watch?v=c1OFiYe-QF8 </br>
 -> Android Callback Method 
